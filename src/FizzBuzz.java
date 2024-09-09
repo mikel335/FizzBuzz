@@ -34,6 +34,7 @@ class FizzBuzz {
         } else {
 
             System.out.println(i);
+            System.out.println("pull test");
 
         }
         return i;
